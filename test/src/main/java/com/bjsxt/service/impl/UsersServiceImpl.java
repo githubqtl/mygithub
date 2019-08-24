@@ -6,7 +6,7 @@ public class UsersServiceImpl implements UsersService{
 
 	@Override
 	public void selAll() {
-		System.out.println("woaini");
+		int i = 0;
 	}
 
 }
