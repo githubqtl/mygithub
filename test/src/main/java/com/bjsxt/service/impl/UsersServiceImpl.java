@@ -9,4 +9,10 @@ public class UsersServiceImpl implements UsersService{
 		System.out.println("ÎÒ°®Äã");
 	}
 
+	@Override
+	public int insUsers() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
