@@ -15,4 +15,10 @@ public class UsersServiceImpl implements UsersService{
 		return 0;
 	}
 
+	@Override
+	public int insUsers() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
